@@ -227,29 +227,5 @@
       "enlace_maps": "https://goo.gl/maps/kfjsc1dSc1s4PC8bA",
 	"latitude": 36.69423836974632,
       "longitude": -6.147232194887904
-    },
-    {
-      "id": 19,
-      "distro": 1,
-      "foto": "https://i.postimg.cc/sxvyrMqt/diecinueve.jpg",
-      "nombre": "Autoservicio Carmen",
-      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
-      "horario": "10:00 – 14:00",
-      "direccion": "Avenida del Amontillado, 16",
-      "enlace_maps": "https://goo.gl/maps/HFjecnjZSjBRRAi79",
-	"latitude": 36.693578454097114,
-      "longitude": -6.146315015207387
-    },
-    {
-      "id": 20,
-      "distro": 1,
-      "foto": "https://i.postimg.cc/xCsYhvxv/veinte.jpg",
-      "nombre": "La despensa de Sonia",
-      "informacion": "Tienda con alimentación, bebidas, chuches.",
-      "horario": "9:00 – 15:30",
-      "direccion": "Calle. Asta, 4",
-      "enlace_maps": "https://goo.gl/maps/45T1cbRNNj3iE6G79",
-	"latitude": 36.690187601986544,
-      "longitude": -6.143601623296336
     }
 ]}
