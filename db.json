@@ -1,4 +1,4 @@
-    {
+{
   "negocios": [
     {
       "id": 0,
@@ -251,18 +251,5 @@
       "enlace_maps": "https://goo.gl/maps/45T1cbRNNj3iE6G79",
 	"latitude": 36.690187601986544,
       "longitude": -6.143601623296336
-    },
-    {
-      "id": 21,
-      "distro": 1,
-      "foto": "https://i.postimg.cc/NFStfgwL/veintiuno.jpg",
-      "nombre": "Alimentación la Plata",
-      "informacion": "Tienda con alimentación, bebidas, chuches. Hacen bocadillos estupendos.",
-      "horario": "9:00 – 15:00",
-      "direccion": "Calle José de Arce, 2",
-      "enlace_maps": "https://goo.gl/maps/K7sitXnvyA7nWixL9",
-	"latitude": 36.69275367691753,
-      "longitude": -6.142341446549348
     }
-]
-}
+]}
