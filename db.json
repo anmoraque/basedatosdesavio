@@ -263,18 +263,6 @@
       "enlace_maps": "https://goo.gl/maps/K7sitXnvyA7nWixL9",
 	"latitude": 36.69275367691753,
       "longitude": -6.142341446549348
-    },
-    {
-      "id": 22,
-      "distro": 1,
-      "foto": "https://i.postimg.cc/509bs739/veintidos.jpg",
-      "nombre": "Bazar Hao",
-      "informacion": "Tienda típica china con casi de todo.Alimentación, bebidas, droguería, ferretería, papelería, juguetes, lencería, etc.",
-      "horario": "9:00 – 22:00",
-      "direccion": "Plaza José González Pepillo",
-      "enlace_maps": "https://goo.gl/maps/T2LknvbZh6gtZkLbA",
-	"latitude": 36.69484674634215,
-      "longitude": -6.1450417716171994
     }
 ]
 }
