@@ -1,4 +1,4 @@
-{
+    {
   "negocios": [
     {
       "id": 0,
@@ -9,7 +9,7 @@
       "horario": "9:30 – 24:00",
       "direccion": "Avenida de Méjico, 10",
       "enlace_maps": "https://g.page/bazarfang?share",
-      "latitude": 36.69304034794886,
+	"latitude": 36.69304034794886,
       "longitude": -6.128592426981506
     },
     {
@@ -21,7 +21,7 @@
       "horario": "9:30 – 22:30",
       "direccion": "Calle Fernando Viola, 7",
       "enlace_maps": "https://goo.gl/maps/ALckMg7aJrUoiEL49",
-      "latitude": 36.691556145354966,
+	"latitude": 36.691556145354966,
       "longitude": -6.129519653372688
     },
     {
@@ -33,7 +33,7 @@
       "horario": "9:30 – 23:00",
       "direccion": "Calle Santo Domingo, 13B",
       "enlace_maps": "https://goo.gl/maps/WT1AWwVz9eNzxGZQ7",
-      "latitude": 36.691246241669866,
+	"latitude": 36.691246241669866,
       "longitude": -6.13201195337269
     },
     {
@@ -41,11 +41,11 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/wBjwtJWg/gourmet.jpg",
       "nombre": "El Capricho Gourmet",
-      "informacion": "Tienda típica con alimentación y bebidas.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 14:30",
       "direccion": "Callejón de los Bolos, 24",
       "enlace_maps": "https://goo.gl/maps/FUGTvKmKbMswVX3j9",
-      "latitude": 36.68957179020865,
+	"latitude": 36.68957179020865,
       "longitude": -6.135919282209103
     },
     {
@@ -57,7 +57,7 @@
       "horario": "9:30 – 14:30",
       "direccion": "Calle Santo Domingo",
       "enlace_maps": "https://goo.gl/maps/3hLo1bzTiEPvAT6N6",
-      "latitude": 36.68856213040559,
+	"latitude": 36.68856213040559,
       "longitude": -6.135298798061149
     },
     {
@@ -69,7 +69,7 @@
       "horario": "9:30 – 22:30",
       "direccion": "Urbanización, Calle Sevilla, 24",
       "enlace_maps": "https://goo.gl/maps/yvTLnoM2NrckKpMe8",
-      "latitude": 36.68918593281072,
+	"latitude": 36.68918593281072,
       "longitude": -6.136764931871971
     },
     {
@@ -77,11 +77,11 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/bNh4kDK4/seis.jpg",
       "nombre": "Kiosco Juan Carlos",
-      "informacion": "Tienda típica china con casi de todo.Alimentación, bebidas, droguería, ferretería, papelería, juguetes, lencería, etc.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 15:00",
       "direccion": "Calle Contadora, 3c",
-      "enlace_maps": "https://goo.gl/maps/2xjrwnT7PNP29fE37",
-      "latitude": 36.70044824679875,
+      "enlace_maps": "https://goo.gl/maps/5pn48jSrU8XRiF7G8",
+	"latitude": 36.70044824679875,
       "longitude": -6.128357298145089
     },
     {
@@ -89,11 +89,11 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/2y4JgrBH/siete.jpg",
       "nombre": "Alimentación confitería Gabriela",
-      "informacion": "Tienda típica con alimentación, chuches y bebidas.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 14:00",
       "direccion": "Calle Contadora, 5Z",
-      "enlace_maps": "https://goo.gl/maps/1JZTc8xrmR8e2iSa8",
-      "latitude": 36.70142044236928,
+      "enlace_maps": "https://goo.gl/maps/2mwCHfzrS6NkEeK86",
+	"latitude": 36.70142044236928,
       "longitude": -6.12825065581792
     },
     {
@@ -101,11 +101,11 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/T2mZKqHr/ocho.jpg",
       "nombre": "Bazar y Confitería El Almendral",
-      "informacion": "Tienda típica con alimentación, chuches y bebidas.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 14:45",
       "direccion": "Avenida De La Comedia Urb, Local 20",
       "enlace_maps": "https://g.page/bazarconfiteriaelalmendral?share",
-      "latitude": 36.70247243239265,
+	"latitude": 36.70247243239265,
       "longitude": -6.133683742327169
     },
     {
@@ -113,11 +113,11 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/SR03ZJj2/nueve.jpg",
       "nombre": "Alimentación San Joaquin",
-      "informacion": "Tienda típica con alimentación, chuches y bebidas.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 14:00",
       "direccion": "Avenida de Sudamérica, 9",
-      "enlace_maps": "https://goo.gl/maps/XTratVwkajtf9xjWA",
-      "latitude": 36.70380095556025,
+      "enlace_maps": "https://goo.gl/maps/SBECCEPEX3z5TgUQA",
+	"latitude": 36.70380095556025,
       "longitude": -6.127563086509247
     },
     {
@@ -125,35 +125,35 @@
       "distro": 0,
       "foto": "https://i.postimg.cc/VNZDX6TM/esquinita.jpg",
       "nombre": "La Esquinita",
-      "informacion": "Tienda típica con alimentación, chuches y bebidas.",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
       "horario": "9:30 – 15:00",
       "direccion": "Calle Santo Domingo",
       "enlace_maps": "https://goo.gl/maps/yXfENsDpx8gy2dvYA",
-      "latitude": 36.70603433132647,
+	"latitude": 36.70603433132647,
       "longitude": -6.123686417790897
     },
     {
       "id": 11,
       "distro": 0,
       "foto": "https://i.postimg.cc/3R0zCgrQ/once.jpg",
-      "nombre": "Coviran",
-      "informacion": "Supermercado de Alimentación.",
+      "nombre": "Supermercado Coviran",
+      "informacion": "Supermercado de Alimentación, tiene de todo.",
       "horario": "7:30 – 15:00",
       "direccion": "Calle de Montevideo, 30c",
-      "enlace_maps": "https://goo.gl/maps/nh17LRVuFqEimqeD8",
-      "latitude": 36.704872137255215,
+      "enlace_maps": "https://goo.gl/maps/9bqC3gsLTzwLnwuo6",
+	"latitude": 36.704872137255215,
       "longitude": -6.126130728836414
     },
     {
       "id": 12,
       "distro": 0,
       "foto": "https://i.postimg.cc/Hk2Ss396/dia.jpg",
-      "nombre": "Día",
-      "informacion": "Supermercado de Alimentación.",
+      "nombre": "Supermercado Día",
+      "informacion": "Supermercado de Alimentación, tiene de todo.",
       "horario": "9:00 – 15:00",
       "direccion": "Calle Hermano Eleuterio Jose Sanchez, 4",
       "enlace_maps": "https://goo.gl/maps/RHHjRX9wfuR8tUen6",
-      "latitude": 36.70726274464853,
+	"latitude": 36.70726274464853,
       "longitude": -6.1106943256499875
     },
     {
@@ -164,9 +164,189 @@
       "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
       "horario": "9:30 – 15:30",
       "direccion": "Calle José Ortega y Gasset, 2",
-      "enlace_maps": "https://goo.gl/maps/YjFKRmJQoA8ZxKar7",
-      "latitude": 36.71051015418631,
+      "enlace_maps": "https://goo.gl/maps/Y6WJDDmGHjoUdewe8",
+	"latitude": 36.71051015418631,
       "longitude": -6.106673635741347
+    },
+    {
+      "id": 14,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/3wYTwSzj/catorce.jpg",
+      "nombre": "Autoservicio José Mari",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 14:00",
+      "direccion": "Calle Juan Puerto Aragón, 4",
+      "enlace_maps": "https://goo.gl/maps/aKM4kxem5GJuMi3j7",
+	"latitude": 36.687021435558094,
+      "longitude": -6.149910877347015
+    },
+    {
+      "id": 15,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/P5mHTsVr/quince.jpg",
+      "nombre": "La Esquinita 2 Alimentación",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 15:30",
+      "direccion": "Calle Begonia, 1",
+      "enlace_maps": "https://goo.gl/maps/TeQSx5cyMnpbddmh8",
+	"latitude": 36.685218296239334,
+      "longitude": -6.150805828818254
+    },
+    {
+      "id": 16,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/x1rQwTR4/dieciseis.jpg",
+      "nombre": "Polvillo",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "9:00 – 14:00",
+      "direccion": "Avenida de la Soleá",
+      "enlace_maps": "https://goo.gl/maps/Gpz46DSN6QzzS7zo8",
+	"latitude": 36.69397798916951,
+      "longitude": -6.144454835490559
+    },
+    {
+      "id": 17,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/rFRcZtS4/diecisiete.jpg",
+      "nombre": "Alimentación doble M",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 14:00",
+      "direccion": "Avenida del Mosto, 6",
+      "enlace_maps": "https://goo.gl/maps/boVNLWQhbmhboPT26",
+	"latitude": 36.693765776841126,
+      "longitude": -6.148640812674037
+    },
+    {
+      "id": 18,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/jqFthhJK/dieciocho.jpg",
+      "nombre": "Bebafry Low cost",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "10:00 – 15:00",
+      "direccion": "Avenida del Mosto, 2",
+      "enlace_maps": "https://goo.gl/maps/kfjsc1dSc1s4PC8bA",
+	"latitude": 36.69423836974632,
+      "longitude": -6.147232194887904
+    },
+    {
+      "id": 19,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/sxvyrMqt/diecinueve.jpg",
+      "nombre": "Autoservicio Carmen",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "10:00 – 14:00",
+      "direccion": "Avenida del Amontillado, 16",
+      "enlace_maps": "https://goo.gl/maps/HFjecnjZSjBRRAi79",
+	"latitude": 36.693578454097114,
+      "longitude": -6.146315015207387
+    },
+    {
+      "id": 20,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/xCsYhvxv/veinte.jpg",
+      "nombre": "La despensa de Sonia",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "9:00 – 15:30",
+      "direccion": "Calle. Asta, 4",
+      "enlace_maps": "https://goo.gl/maps/45T1cbRNNj3iE6G79",
+	"latitude": 36.690187601986544,
+      "longitude": -6.143601623296336
+    },
+    {
+      "id": 21,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/NFStfgwL/veintiuno.jpg",
+      "nombre": "Alimentación la Plata",
+      "informacion": "Tienda con alimentación, bebidas, chuches. Hacen bocadillos estupendos.",
+      "horario": "9:00 – 15:00",
+      "direccion": "Calle José de Arce, 2",
+      "enlace_maps": "https://goo.gl/maps/K7sitXnvyA7nWixL9",
+	"latitude": 36.69275367691753,
+      "longitude": -6.142341446549348
+    },
+    {
+      "id": 22,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/509bs739/veintidos.jpg",
+      "nombre": "Bazar Hao",
+      "informacion": "Tienda típica china con casi de todo.Alimentación, bebidas, droguería, ferretería, papelería, juguetes, lencería, etc.",
+      "horario": "9:00 – 22:00",
+      "direccion": "Plaza José González Pepillo",
+      "enlace_maps": "https://goo.gl/maps/T2LknvbZh6gtZkLbA",
+	"latitude": 36.69484674634215,
+      "longitude": -6.1450417716171994
+    },
+    {
+      "id": 23,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/N0kQ7qRP/veintitres.jpg",
+      "nombre": "Alimentación Panadería Pepe",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 23:00",
+      "direccion": "Calle Farruca, 9",
+      "enlace_maps": "https://goo.gl/maps/QNX54SrqWMt8dhAg7",
+	"latitude": 36.69582977780073,
+      "longitude": -6.147752529438735
+    },
+    {
+      "id": 24,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/jjbs7dn7/veinticuatro.jpg",
+      "nombre": "El Desavio",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 23:00",
+      "direccion": "Calle Farruca con Avenida del Amontillado",
+      "enlace_maps": "https://goo.gl/maps/bJiTdSdECj5hiwxf9",
+	"latitude": 36.69494806554605,
+      "longitude": -6.148505819805361
+    },
+    {
+      "id": 25,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/RZfShnhm/veinticinco.jpg",
+      "nombre": "Tu despensa",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "9:00 – 15:o0",
+      "direccion": "Avenida del Amontillado, 33",
+      "enlace_maps": "https://goo.gl/maps/GmDzSW6AfjZB6dKj8",
+	"latitude": 36.695226578206686,
+      "longitude": -6.1489939816845585
+    },
+    {
+      "id": 26,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/BQRZJCqN/veintiseis.jpg",
+      "nombre": "Confiteria Adrian",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "9:30 – 15:30",
+      "direccion": "Calle Racimo, 4",
+      "enlace_maps": "https://goo.gl/maps/P4BeWgofHVCNw2yx6",
+	"latitude": 36.698202731257076,
+      "longitude": -6.141981231607544
+    },
+    {
+      "id": 27,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/pXmXNStp/veintisiete.jpg",
+      "nombre": "Alimentación Leiva",
+      "informacion": "Tienda con alimentación, bebidas, chuches.",
+      "horario": "9:00 – 15:00",
+      "direccion": "Calle Álvar Núñez Cabeza de Vaca, 6",
+      "enlace_maps": "https://goo.gl/maps/3rbYBCbH5uv7Skxj6",
+	"latitude": 36.69980529942121,
+      "longitude": -6.136885035305241
+    },
+    {
+      "id": 28,
+      "distro": 1,
+      "foto": "https://i.postimg.cc/zDtXcr6s/veintiocho.jpg",
+      "nombre": "Alimentación Lucia",
+      "informacion": "Tienda típica con alimentación, frutería, chuches y bebidas.",
+      "horario": "9:00 – 15:00",
+      "direccion": "Calle Álvar Núñez Cabeza de Vaca, 4",
+      "enlace_maps": "https://goo.gl/maps/uzjBK8Mv61b7GLdU9",
+	"latitude": 36.69983110584008,
+      "longitude": -6.137024510178644
     }
-  ]
+]
 }
